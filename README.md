@@ -1,4 +1,4 @@
-### em contrução 👋
+### em construção 👋
 
 
 ### Técnologias
