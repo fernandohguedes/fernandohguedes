@@ -1,6 +1,8 @@
 ### em construção 👋
 
 
+<a href="https://www.linkedin.com/in/fernando-guedes-02b75690/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 ### Técnologias
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396) ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git) ![SQL](https://camo.githubusercontent.com/11378e2ce6a18fd4651126f90c4bb5f5e9860552dc17cff23f7190062bb731a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d6666663f7374796c653d666c6174266c6f676f3d4d6963726f736f66742d53514c2d536572766572266c6f676f436f6c6f723d626c7565) ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue) 
 
