@@ -1,4 +1,4 @@
-### carreira profissional em contrução 👋
+### em contrução 👋
 
 
 ### Técnologias
