@@ -16,8 +16,8 @@
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohguedes&theme=blue-green)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fernandohguedes&count_private=true&show_icons=true&theme=algolia&line_height=27)
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohguedes&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
 
 
 <!--
